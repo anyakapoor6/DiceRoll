@@ -1,6 +1,6 @@
 //
-//  RollDiceGameUITests.swift
-//  RollDiceGameUITests
+//  RollDiceAppUITests.swift
+//  RollDiceAppUITests
 //
 //  Created by tcs Fremont on 12/6/19.
 //  Copyright © 2019 tcs Fremont. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class RollDiceGameUITests: XCTestCase {
+class RollDiceAppUITests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.

@@ -1,15 +1,15 @@
 //
-//  RollDiceGameTests.swift
-//  RollDiceGameTests
+//  RollDiceAppTests.swift
+//  RollDiceAppTests
 //
 //  Created by tcs Fremont on 12/6/19.
 //  Copyright © 2019 tcs Fremont. All rights reserved.
 //
 
 import XCTest
-@testable import RollDiceGame
+@testable import RollDiceApp
 
-class RollDiceGameTests: XCTestCase {
+class RollDiceAppTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.

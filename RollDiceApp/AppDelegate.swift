@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  RollDiceGame
+//  RollDiceApp
 //
 //  Created by tcs Fremont on 12/6/19.
 //  Copyright © 2019 tcs Fremont. All rights reserved.
