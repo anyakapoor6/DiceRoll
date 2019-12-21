@@ -10,9 +10,15 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    let names = ["Ethan", "Gray", "KC", "Luke", "Spirit"]
+    @IBOutlet weak var name: UILabel!
+    
+    @IBAction func changeName(_ sender: UIButton) {
+        name.text = names.randomElement()!
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        name.text = names.randomElement()!
     }
     
     //Testing changes here...
